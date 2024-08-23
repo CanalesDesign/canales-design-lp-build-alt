@@ -18,33 +18,27 @@ export default function HeroSection() {
                 className="text-secondary md:hidden"
                 headingLevel="h1"
                 levelSize="display">
-                Identidade Visual
-                <br />
-                que transmite credibilidade,
-                <br />
-                confiança e fortalece
-                <br /> sua empresa.
+                Torne sua empresa
+                <br /> mais atraente
+                <br />e conquiste
+                <br /> novos clientes.
               </Heading>
               <Heading
                 className="text-secondary hidden md:inline-block"
                 headingLevel="h1"
                 levelSize="display">
-                Identidade Visual
-                <br />
-                que transmite confiança,
-                <br />
-                credibilidade e fortalece
-                <br />
-                sua empresa.
+                Torne sua empresa
+                <br /> mais atraente e conquiste
+                <br /> novos clientes.
               </Heading>
 
               <Paragraphs
-                className="text-secondary max-w-[860px] mt-6 text-balance paragraph-mono"
+                className="text-secondary max-w-[800px] mt-6 paragraph-mono"
                 bodySize="body-xl">
-                Conecte-se com seu público e crie mais valor para sua empresa
-                desenvolvendo uma Identidade Visual que vai{" "}
+                Com uma identidade visual profissional, sua empresa
+                <br /> se destaca no mercado, atrai o público certo <br />
                 <span className="highlight">
-                  destacar você no mercado e promover crescimento.
+                  e transforma oportunidades em clientes.
                 </span>
               </Paragraphs>
               <Button
