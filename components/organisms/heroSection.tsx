@@ -35,7 +35,7 @@ export default function HeroSection() {
               <Paragraphs
                 className="text-secondary max-w-[800px] mt-6 paragraph-mono"
                 bodySize="body-xl">
-                Com uma identidade visual profissional, sua empresa
+                Com uma Identidade Visual profissional, sua empresa
                 <br /> se destaca no mercado, atrai o público certo <br />
                 <span className="highlight">
                   e transforma oportunidades em clientes.

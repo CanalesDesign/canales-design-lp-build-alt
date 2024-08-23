@@ -5,7 +5,7 @@ const HeroContent = [
     id: 1,
     headline: "Identidade Visualque transmite confiança, credibilidade e fortalecesua empresa.",
     body: "Identidade Visual que transmite confiança, credibilidade e fortalece sua empresa.",
-    cta: "agende uma conversa",
+    cta: "me chame no whatsapp",
     path: "https://api.whatsapp.com/send?phone=5541997532248",
     rel: "noopener noreferrer",
     target: "_blank",
