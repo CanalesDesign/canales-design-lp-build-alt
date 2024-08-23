@@ -62,15 +62,18 @@ export default function RootLayout({
     <html
       lang="pt-BR"
       className={`${ibm_plex_mono.variable} ${libre_franklin.variable}`}>
-      <link href="https://www.canalesdesign.com.br" rel="canonical" />
-      <GoogleTagManager gtmId="GTM-PPRTNJ8C" />
+      <link
+        href="https://www.landingpage.canalesdesign.com.br"
+        rel="canonical"
+      />
+      <GoogleTagManager gtmId="GTM-NDWBFXXT" />
       <Analytics />
       <SpeedInsights />
       <body className="bg-primary">
         <noscript>
           <iframe
             className="hidden invisible"
-            src="https://www.googletagmanager.com/ns.html?id=GTM-PPRTNJ8C"
+            src="https://www.googletagmanager.com/ns.html?id=GTM-NDWBFXXT"
             height="0"
             width="0"></iframe>
         </noscript>
