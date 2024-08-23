@@ -15,7 +15,7 @@ export default function CookieEyesBanner() {
       <Script
         id="cookies__eyes--script"
         type="text/javascript"
-        src={`https://cdn-cookieyes.com/client_data/fa7e0c4b8d4a8099e17111cc/script.js`}
+        src={`https://cdn-cookieyes.com/client_data/7e463c96c344dbbd7815e7f0/script.js`}
         strategy="beforeInteractive"
       />
     </div>
