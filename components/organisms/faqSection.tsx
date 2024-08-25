@@ -70,7 +70,7 @@ export default function FaqSection() {
         </div>
         <Button
           intent="primary"
-          label="converse comigo"
+          label="me chame no whatsapp"
           icon={<MessageSquareText size={16} />}
           path="https://api.whatsapp.com/send?phone=5541997532248"
           target="_blank"
