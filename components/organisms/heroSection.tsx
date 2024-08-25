@@ -33,11 +33,12 @@ export default function HeroSection() {
               </Heading>
 
               <Paragraphs
-                className="text-secondary max-w-[800px] mt-6 paragraph-mono"
+                className="text-secondary max-w-[800px] mt-6 paragraph-mono text-balance md:text-wrap"
                 bodySize="body-xl">
                 Com uma Identidade Visual profissional, sua empresa
-                <br /> se destaca no mercado, atrai o público certo <br />
+                <br /> se destaca no mercado, atrai o público certo
                 <span className="highlight">
+                  {" "}
                   e transforma oportunidades em clientes.
                 </span>
               </Paragraphs>

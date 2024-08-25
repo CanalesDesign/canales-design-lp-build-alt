@@ -7,7 +7,7 @@ const headinglevels = tv({
   variants: {
     levelSize: {
       display:
-        "text-3xl md:text-7xl font-semibold leading-[2rem] md:leading-[4rem] -tracking-[0.035em]",
+        "text-4xl md:text-7xl font-semibold leading-[2.25rem] md:leading-[4rem] -tracking-[0.035em]",
       "headline-1":
         "text-4xl leading-[2.25rem] md:text-7xl font-semibold -tracking-[0.035em]",
       "headline-2":
