@@ -20,7 +20,7 @@ const FooterContent = [
     emailpath: "mailto:rodrigo@canalesdesign.com.br",
     // whatsapp:<MessageSquareText size={24} />,
     whatsapppath: "https://api.whatsapp.com/send?phone=5541997532248",
-    whatsapp: "whatsapp +55 41 99753.2248",
+    whatsapp: "whatsapp +55 41 99753 2248",
     target: "_blank"
   },
 ];
