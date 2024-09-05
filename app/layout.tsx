@@ -62,10 +62,7 @@ export default function RootLayout({
     <html
       lang="pt-BR"
       className={`${ibm_plex_mono.variable} ${libre_franklin.variable}`}>
-      <link
-        href="https://www.landingpage.canalesdesign.com.br"
-        rel="canonical"
-      />
+      <link href="https://landingpage.canalesdesign.com.br" rel="canonical" />
       <GoogleTagManager gtmId="GTM-NDWBFXXT" />
       <Analytics />
       <SpeedInsights />
